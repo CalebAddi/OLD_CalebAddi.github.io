@@ -2,7 +2,7 @@
 
 (function($) {
 
-	var	$window = $(window),
+	const $window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
 		$header = $('#header'),
